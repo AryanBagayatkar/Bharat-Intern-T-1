@@ -2,6 +2,9 @@
 
 Languages :
 
-node js , express , html , css and mongodb
+node js , express , html , css 
+
+
+Backend connectivity with : Mongogodb(Atlas)
 
 Full stack Website 
