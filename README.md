@@ -1,2 +1,7 @@
-# Bharat-Intern-T-1
-Registration Form using node js , express , html , css and mongodb
+# Bharat-Intern-Task-1(Registration Form)
+
+Languages :
+
+node js , express , html , css and mongodb
+
+Full stack Website 
